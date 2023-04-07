@@ -1,0 +1,6 @@
+.vscode/
+Ass*.md
+check.sh
+License.md
+*.o
+*.exe
